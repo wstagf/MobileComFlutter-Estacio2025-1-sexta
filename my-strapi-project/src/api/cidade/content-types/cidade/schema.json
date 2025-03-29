@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cidades",
+  "info": {
+    "singularName": "cidade",
+    "pluralName": "cidades",
+    "displayName": "cidade"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "nome": {
+      "type": "string"
+    }
+  }
+}
